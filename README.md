@@ -1,3 +1,3 @@
 # Demo
-Repository to learn git
+Repository to learn git. Only thing constant is change.
 
